@@ -1,6 +1,6 @@
-![logo](
+![logo](https://github.com/Neha3072/Neha3072/blob/main/Fail%20fast%2C%20learn%20faster..png)
 <h1 align="center">Hi 👋, I'm Neha Singh</h1>
-<h3 align="center">A A passionate Data Analyst Developer from India</h3>
+<h3 align="center"> A passionate Data Analyst Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn3.iconfinder.com/data/icons/kids-learn-coding-design-sticker/1500/Girl_Coding_With_Laptop-1024.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha3072&label=Profile%20views&color=0e75b6&style=flat" alt="neha3072" /> </p>
